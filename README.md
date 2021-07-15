@@ -5,7 +5,7 @@ Here is a list of projects (to see the links on my contributions for each projec
 
 ## The List of Projects
 - [Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
-- [Osmosis]()
+- [Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
 - Kava
 - Persistence
 - Ki Chain
