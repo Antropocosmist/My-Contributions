@@ -74,5 +74,6 @@ I’m admin or owner in this Tlegram groups of Cosmos Network: <br />
 
 Also, near 2 years I was Community Advocate of Cosmostation, and was helping to thousands of people. And bring a lot of value to Cosmos Network Community. But several weeks ago, I met with repressions from the side Daniela Catdotfish. She pressured the Cosmostation Team to ask me to leave the community. Since I have published evidence that Daniela is using her social power for personal interests and against the interests of the community: <br />
 - [General Strike against Centralization of the Cosmos Network](https://antropocosmist.medium.com/general-strike-against-centralization-of-the-cosmos-network-bb00fb9507c9)
-- [Repressions to those who disagree with Centralization in the Cosmos Ecosystem](https://antropocosmist.medium.com/repressions-to-those-who-disagree-with-centralization-in-the-cosmos-ecosystem-487bc6d3ff9f)
+- [Repressions to those who disagree with Centralization in the Cosmos Ecosystem](https://antropocosmist.medium.com/repressions-to-those-who-disagree-with-centralization-in-the-cosmos-ecosystem-487bc6d3ff9f) <br />
+
 But for near 2 years, I was helping to all community without any reward, just with enthusiasm!
