@@ -1,10 +1,6 @@
 # The list of my contributions for the [Cosmos Network](https://cosmos.network/)
 
 - [My competencies](https://github.com/Antropocosmist/my_competencies)
-- I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we add $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot without any support
-- I always write about Cosmos Network at [my Twitter](https://twitter.com/ponimajushij)
-- I'm owner of https://twitter.com/CosmosEcosystem and I always make reposts of Cosmos Network news
-- [About me at jobs.cosmos.network](https://jobs.cosmos.network/contributor/vladimir-netkjt-networker-evangelist-navigator-community-net-neutrality-marseille-france/)
 
 ## Videos
 
@@ -76,4 +72,9 @@ Also, near 2 years I was Community Advocate of Cosmostation, and was helping to 
 - [General Strike against Centralization of the Cosmos Network](https://antropocosmist.medium.com/general-strike-against-centralization-of-the-cosmos-network-bb00fb9507c9)
 - [Repressions to those who disagree with Centralization in the Cosmos Ecosystem](https://antropocosmist.medium.com/repressions-to-those-who-disagree-with-centralization-in-the-cosmos-ecosystem-487bc6d3ff9f) <br />
 
-But for near 2 years, I was helping to all community without any reward, just with enthusiasm!
+But for near 2 years, I was helping to all community without any reward, just with enthusiasm! <br />
+
+- I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we add $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot without any support
+- I always write about Cosmos Network at [my Twitter](https://twitter.com/ponimajushij)
+- I'm owner of https://twitter.com/CosmosEcosystem and I always make reposts of Cosmos Network news
+- [About me at jobs.cosmos.network](https://jobs.cosmos.network/contributor/vladimir-netkjt-networker-evangelist-navigator-community-net-neutrality-marseille-france/)
