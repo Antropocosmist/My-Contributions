@@ -77,4 +77,4 @@ But for near 2 years, I was helping to all community without any reward, just wi
 - I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $ATOM to https://t.me/SputnikNetworkBot and https://t.me/SputnikPriceBot
 - I always write about Cosmos Network at [my Twitter](https://twitter.com/ponimajushij)
 - I'm an owner of https://twitter.com/CosmosEcosystem and I always make reposts of Cosmos News
-- [About me at jobs.cosmos.network](https://jobs.cosmos.network/contributor/vladimir-netkjt-networker-evangelist-navigator-community-net-neutrality-marseille-france/)
+- About me at [jobs.cosmos.network](https://jobs.cosmos.network/contributor/vladimir-netkjt-networker-evangelist-navigator-community-net-neutrality-marseille-france/)
