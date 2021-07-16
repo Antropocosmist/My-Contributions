@@ -63,7 +63,7 @@ I’m admin or owner in this Tlegram groups of Cosmos Network: <br />
 - https://t.me/UnofficialCosmosPriceSpeculation
 - https://t.me/ATOMCosmonauts
 - https://t.me/CosmosEcosystem
-– https://t.me/CosmicSpeculations
+- https://t.me/CosmicSpeculations
 - https://t.me/Sputnik_ru
 - https://t.me/Sputnik_Network
 - https://t.me/SputnikDish
