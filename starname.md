@@ -1,5 +1,7 @@
 # The list of my contributions for the [Starname](https://www.starname.me/)
 
+![1_yapM45B9o4rZPgL-GeywjQ](https://user-images.githubusercontent.com/38581319/128280244-763685f8-ef60-4d57-a9df-b6c675bfadab.jpeg)
+
 - [My competencies](https://github.com/Antropocosmist/my_competencies)
 
 ## My contribution to Starname Community
