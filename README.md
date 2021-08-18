@@ -6,9 +6,9 @@ Here is a list of projects (to see the links on my contributions for each projec
 ## The List of Projects
 - [Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
 - [Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
+- [Persistence](https://github.com/Antropocosmist/My-Contributions/blob/main/persistence.md)
 - [Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
 - Kava
-- Persistence
 - Ki Chain
 - Fetch.ai
 - Secret Network
