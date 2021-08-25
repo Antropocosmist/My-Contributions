@@ -26,7 +26,7 @@ I’m admin in this Tlegram groups of Starname: <br />
 
 ## Articles
 
--[Starname: the early bird of mass adoption](https://antropocosmist.medium.com/starname-the-early-bird-of-mass-adoption-ef0db15d84f8)
+- [Starname: the early bird of mass adoption](https://antropocosmist.medium.com/starname-the-early-bird-of-mass-adoption-ef0db15d84f8)
 
 ## Guides
 
