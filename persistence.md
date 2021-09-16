@@ -41,6 +41,7 @@ I help to Persistence with community development: <br />
 - [How to participate in Persistance airdrop and send magic transaction](https://antropocosmist.medium.com/how-to-participate-in-persistance-airdrop-and-send-magic-transaction-5f6bfe542e03)
 
 ## About Persistence at [my blog on Medium](https://antropocosmist.medium.com/) in Russian
+- [$PSTAKE Airdrop](https://antropocosmist.medium.com/pstake-airdrop-ru-6de51d5b59af)
 - [Persistence AMA in russian-speaking community](https://antropocosmist.medium.com/persistence-ama-russian-speaking-community-c6a068c81a0b)
 - [pSTAKE Mainnet Launch: Beta Release with supporting of $ATOM will be at 12th of July](https://antropocosmist.medium.com/main-net-pstake-beta-rus-9594e4aaa0b6)
 - [How to use pSTAKE | Complete instruction](https://antropocosmist.medium.com/pstake-video-guide-rus-3b156881529a)
