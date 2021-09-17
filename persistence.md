@@ -21,6 +21,7 @@ I help to Persistence with community development: <br />
 
 - [Video about StakeDrop from Persistence](https://youtu.be/YcpUKRBHvp0)
 - [PoS in a new way: pSTAKE solves the problem of stakers](https://youtu.be/0JDAcUF1iUo)
+- [Difference between Coin and Token on example of Persistence | Fork The System](https://youtu.be/6wobl104wqc)
 
 ## Video Guides in English
 
