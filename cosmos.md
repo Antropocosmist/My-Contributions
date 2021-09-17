@@ -4,6 +4,7 @@
 
 ## Videos
 
+- [Difference between Coin and Token on example of Cosmos Network | Fork The System](https://youtu.be/6wobl104wqc)
 - [The Validator Show #4 | Discovering the Cosmos](https://youtu.be/6hzLe5XmjYc)
 - [Cosmostation and Keplr Wallets / Fork The System](https://youtu.be/vgRCiEr8Y2o)
 - [How to decentralize any servicewith Cosmos Network | Fork The System](https://youtu.be/AsbAG_fcBBg)
