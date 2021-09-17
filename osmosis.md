@@ -17,7 +17,8 @@ I’m admin or owner in this Tlegram groups of Osmosis: <br />
 ## Videos
 
 - [The Validator Show #5 | Osmosis: One Week After Genesis](https://youtu.be/Dyi3Ew_YPS4)
-- [What is liquidity pool at Osmosis? / Fork The System](https://youtu.be/Vn5-_1P4rPs)
+- [What is liquidity pool at Osmosis? | Fork The System](https://youtu.be/Vn5-_1P4rPs)
+- [Difference between Coin and Token on example of Osmosis | Fork The System](https://youtu.be/6wobl104wqc)
 
 ## Guides
 
