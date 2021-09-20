@@ -8,9 +8,9 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
 - [Persistence](https://github.com/Antropocosmist/My-Contributions/blob/main/persistence.md)
 - [Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
+- [Fetch.ai]()
 - Kava
 - Ki Chain
-- Fetch.ai
 - Secret Network
 - Mina Proocol
 - Solana
