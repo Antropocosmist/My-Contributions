@@ -7,8 +7,8 @@
 - I validate [Fetch.ai](https://www.mintscan.io/fetchai/validators/fetchvaloper1y02hlwucl6csz4z02ksn46gzdkmref927l4mug)
 - I’m admin of [russian-speaking community of Fetch.ai in Telegram](https://t.me/fetch_ai_russian)
 - I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $FET to https://t.me/SputnikPriceBot
-- We added $FET to [Sputnik Exchange](https://sputnik.exchange/) - now users can send tips with $FET in Twitter
-- We added $FET to [Sputnik Network Bot](https://t.me/SputnikNetworkBot)- now users can send tips with $FET, and p2p-exchange $FET directly in Telegram! News in [Twitter](https://twitter.com/SputnikNetwork/status/1420848326304583690)
+- We added $FET to [Sputnik Exchange](https://sputnik.exchange/), now users can send tips with $FET in Twitter
+- We added $FET to [Sputnik Network Bot](https://t.me/SputnikNetworkBot), now users can send, receive and p2p-exchange $FET directly [in Telegram](https://twitter.com/SputnikNetwork/status/1420848326304583690)
 - I always write about Fetch.ai at [my Twitter](https://twitter.com/ponimajushij)
 - I'm owner of https://twitter.com/CosmosEcosystem and I always make reposts of Fetch.ai news
 
