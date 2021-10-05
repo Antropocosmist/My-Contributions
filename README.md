@@ -9,6 +9,7 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Persistence](https://github.com/Antropocosmist/My-Contributions/blob/main/persistence.md)
 - [Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
 - [Fetch.ai](https://github.com/Antropocosmist/My-Contributions/blob/main/fetchAI.md)
+- [LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
 - Kava
 - Ki Chain
 - Secret Network
