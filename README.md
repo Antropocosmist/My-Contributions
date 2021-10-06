@@ -10,11 +10,11 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Starname](https://github.com/Antropocosmist/My-Contributions/blob/main/starname.md)
 - [Fetch.ai](https://github.com/Antropocosmist/My-Contributions/blob/main/fetchAI.md)
 - [LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
+- [Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
 - Kava
 - Ki Chain
 - Secret Network
 - Mina Proocol
-- Solana
 - Certik
 - Aigents
 
