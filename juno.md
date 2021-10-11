@@ -6,13 +6,11 @@
 
 - [The Validator Show #6 | Juno Network: Testing the COSMOS - second try](https://youtu.be/Dyi3Ew_YPS4)
 - [Smart-contracts and bureaucracy: how to save time and nerves? | Fork The System](https://youtu.be/ucCIx_AsbRs)
-- [Difference between Coin and Token on example of Osmosis | Fork The System](https://youtu.be/6wobl104wqc)
-- [Difference between CEX and DEX on example of Osmosis | Fork The System](https://youtu.be/wKQ7NyRD4ZQ)
 
 ## Video Guides that I made for Juno Network in English
 
 - [How to add, buy, stake and vote in Juno Network | Keplr, Osmosis, OmniFlix](https://youtu.be/Z-M8pBSVks0)
-- 
+
 ## Video Guides that I made for Juno Network in Russian
 
 - [Deploy smart-contract on Juno Network | Part 1 - prepare](https://youtu.be/xjGj8PIkrKU)
