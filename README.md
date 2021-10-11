@@ -11,6 +11,7 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Fetch.ai](https://github.com/Antropocosmist/My-Contributions/blob/main/fetchAI.md)
 - [LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
 - [Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
+- [Juno Network](https://github.com/Antropocosmist/My-Contributions/blob/main/juno.md)
 - Kava
 - Ki Chain
 - Secret Network
