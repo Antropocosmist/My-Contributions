@@ -6,6 +6,7 @@
 
 - [The Validator Show #6 | Juno Network: Testing the COSMOS - second try](https://youtu.be/Dyi3Ew_YPS4)
 - [Smart-contracts and bureaucracy: how to save time and nerves? | Fork The System](https://youtu.be/ucCIx_AsbRs)
+- [How to get cryptocurrency for free | Promo of HackJuno Phase 2](https://youtu.be/4q6GpcctvcU)
 
 ## Video Guides that I made for Juno Network in English
 
