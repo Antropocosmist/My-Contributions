@@ -12,6 +12,7 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [LikeCoin](https://github.com/Antropocosmist/My-Contributions/blob/main/LikeCoin.md)
 - [Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
 - [Juno Network](https://github.com/Antropocosmist/My-Contributions/blob/main/juno.md)
+- [Umee](https://github.com/Antropocosmist/My-Contributions/blob/main/Umee.md)
 - Kava
 - Ki Chain
 - Secret Network
