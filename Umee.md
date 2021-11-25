@@ -1,4 +1,4 @@
-# The list of my contributions to [Umee](https://umee.cc/)https://t.me/CosmosEcosystemNews_ru
+# The list of my contributions to [Umee](https://umee.cc/)
 
 - [My competencies](https://github.com/Antropocosmist/my_competencies)
 
