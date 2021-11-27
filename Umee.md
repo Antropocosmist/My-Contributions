@@ -16,5 +16,5 @@
 - I translated [Umee White Paper in Russian](https://antropocosmist.medium.com/umee-white-paper-ru-ae8cdbe80fc5) 
 - I always write about Umee at [my Twitter](https://twitter.com/ponimajushij) | [Example](https://twitter.com/ponimajushij/status/1461881382142107653)
 - I'm an owner of https://twitter.com/CosmosEcosystem and I retweet news about Umee
-- I write about Umee at [my blog on Medium](https://umee.cc/)
+- I write about Umee at [my blog on Medium](https://medium.com/@antropocosmist)
 - I'm a creator of Cosmos Ecosystem [channel](https://t.me/CosmosEcosystemNews_ru) and [chat](https://t.me/CosmosEcosystem_ru) for russian-speakers, and I write about Umee there | [Example](https://t.me/CosmosEcosystemNews_ru/232)
