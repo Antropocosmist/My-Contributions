@@ -13,6 +13,7 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Solana](https://github.com/Antropocosmist/My-Contributions/blob/main/solana.md)
 - [Juno Network](https://github.com/Antropocosmist/My-Contributions/blob/main/juno.md)
 - [Umee](https://github.com/Antropocosmist/My-Contributions/blob/main/Umee.md)
+- [SifChain](https://github.com/Antropocosmist/My-Contributions/blob/main/SifChain.md)
 - Kava
 - Ki Chain
 - Secret Network
