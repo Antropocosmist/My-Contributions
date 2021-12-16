@@ -1,5 +1,8 @@
 # My contrbutions for [COMDEX](https://comdex.one/)
 
+## Videos in Russian
+- [Как запросить стэйк дроп от Comdex для стэйкеров ATOM, LUNA, OSMO, XPRT](https://youtu.be/HJi2-akieQk)
+
 ## Support of the Network
 
 - I validate COMDEX with [DVS Validator](https://www.mintscan.io/comdex/validators/comdexvaloper1963hcznh439kspqmjj5hv5h4nk2kphvats5ujk) - 2 more validators are behind DVS Validator together with me: [web34ever](https://web34ever.network/) and [cyberG](https://cyberg.digital/)
