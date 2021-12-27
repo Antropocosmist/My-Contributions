@@ -1,4 +1,3 @@
-My contributions to 
 # The list of my contributions for the [Persistence One](https://persistence.one/)
 
 ## My technical contributions to Persistence One 
