@@ -2,7 +2,10 @@
 
 I'm full-time enthusiast, and I'm helping to many different projects. <br />
 Here is a list of projects (to see the links on my contributions for each project - click on it). <br />
-
+I contribute to projects faster than I add information about it! So, here is not full-list! <br />
+To see all my contributions to different projects, visit my:
+ - [Medium Blog](https://antropocosmist.medium.com/) | [YouTube Channel](https://www.youtube.com/c/posthuman) | [Twitter](https://twitter.com/ponimajushij) |
+ 
 ## The List of Projects
 - [Cosmos Network](https://github.com/Antropocosmist/My-Contributions/blob/main/cosmos.md)
 - [Osmosis](https://github.com/Antropocosmist/My-Contributions/blob/main/osmosis.md)
@@ -15,11 +18,11 @@ Here is a list of projects (to see the links on my contributions for each projec
 - [Umee](https://github.com/Antropocosmist/My-Contributions/blob/main/Umee.md)
 - [SifChain](https://github.com/Antropocosmist/My-Contributions/blob/main/SifChain.md)
 - [COMDEX](https://github.com/Antropocosmist/My-Contributions/blob/main/Comdex.md)
+- [Mina Proocol](https://github.com/Antropocosmist/My-Contributions/blob/main/MinaProtocol.md)
 - Kava
 - Ki Chain
 - Secret Network
-- Mina Proocol
 - Certik
 - Aigents
 
-Soon will add more...
+Soon, I will add more...  <br />
