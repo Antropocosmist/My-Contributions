@@ -4,6 +4,7 @@
 
 ## Videos (Umee logo in video, and links on Umee in description of video)
 
+- I mentioned Umee in my video [Main trends of 2022](https://youtu.be/sV06GV5EBOE)
 - I mentioned Umee in my video [What is the difference between CEX and DEX?](https://youtu.be/wKQ7NyRD4ZQ)
 - I mentioned Umee in my video [Where is the "cash-button"?](https://youtu.be/WbNzvL4RLV4)
 
