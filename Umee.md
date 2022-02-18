@@ -12,6 +12,10 @@
 
 - I'm creator of [russian-speaking community of Umee in Telegram](https://t.me/umee_ru)
 
+## Technical contributions
+
+- I'm a Navigator of [Sputnik Network](https://sputnik.exchange/), and we added $UMEE to https://t.me/SputnikPriceBot
+
 ## Evangelism
 
 - I translated [Umee White Paper in Russian](https://antropocosmist.medium.com/umee-white-paper-ru-ae8cdbe80fc5) 
