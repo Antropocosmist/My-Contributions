@@ -10,6 +10,12 @@
 
 ## Evangelism
 
+- I have my own youtube-channel [CryptoBase](https://www.youtube.com/channel/UCT8g3Ki-EO0UHhP2DFPXi2A), where we teach people how to use Osmosis DEX in Russian language:
+1. [Staking. Is it real to earn without trading?](https://youtu.be/4jSWwWfRQPA) 
+2. [The Best Projects on Cosmos. Part 1](https://youtu.be/3YFKDHx-is4)
+3. [Liquidity Pools. How it works on Osmosis](https://youtu.be/Q4zVZfCOA58)
+4. [Superfluid Staking on Osmosis](https://youtu.be/ED9acfCJsKo)
+
 - I always write about Osmosis at [my Twitter](https://twitter.com/ponimajushij)
 - I'm owner of https://twitter.com/CosmosEcosystem and we make OSMOSIS WEEKLY | [Example](https://mobile.twitter.com/CosmosEcosystem/status/1475163720296898563/photo/1)
 - I participate in different crypto-conferences as a speaker. For example, I was a speaker at [CoInvest Conference](https://coinvest.events/), that have been organized by [CoinPost](https://t.me/Coin_Post) - the biggest Crypto Channel in Telegram. It was a paid conference, so only people who bought ticket could see online, and here is a [video from my speech](https://youtu.be/Z_crcY4NGA4), and I spoke about Osmosis and Cosmos Ecosystem a lot!
