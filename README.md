@@ -19,7 +19,7 @@ To see all my contributions to different projects, visit my:
 - [SifChain](https://github.com/Antropocosmist/My-Contributions/blob/main/SifChain.md)
 - [COMDEX](https://github.com/Antropocosmist/My-Contributions/blob/main/Comdex.md)
 - [Mina Proocol](https://github.com/Antropocosmist/My-Contributions/blob/main/MinaProtocol.md)
-- [Gravity Bridge]()
+- [Gravity Bridge](https://github.com/Antropocosmist/My-Contributions/blob/main/GravityBridge.md)
 - Kava
 - Ki Chain
 - Secret Network
