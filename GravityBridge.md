@@ -3,10 +3,10 @@
 ## Technical Contributions
 - We validate Gravity Bridge with [POSTHUMAN validator](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6)
 
-- We launched next IBC-relayers:
-[Gravity Bridge <--> Osmosis](https://www.mintscan.io/gravity-bridge/relayers/channel-20)
-[Gravity Bridge <--> FirmaChain](https://www.mintscan.io/gravity-bridge/relayers/channel-19)
-[Gravity Bridge <--> Umee](https://www.mintscan.io/gravity-bridge/relayers/channel-22)
+- We launched next IBC-relayers: </br>
+[Gravity Bridge <--> Osmosis](https://www.mintscan.io/gravity-bridge/relayers/channel-20) </br>
+[Gravity Bridge <--> FirmaChain](https://www.mintscan.io/gravity-bridge/relayers/channel-19) </br>
+[Gravity Bridge <--> Umee](https://www.mintscan.io/gravity-bridge/relayers/channel-22) </br>
 
 - We provide [fresh snapshots for Gravity Bridge](https://snapshots.validators.network/)
 
