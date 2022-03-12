@@ -4,12 +4,14 @@
 - We validate Gravity Bridge with [POSTHUMAN validator](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1epfpvqsc34sfserdx8x4t3aszdkar3w684fwr6)
 
 - We launched next IBC-relayers between Gravity Bridge and: </br>
-['transfer', 'channel-34'],  #chihuahua </br>
-['transfer', 'channel-8'],   #juno </br>
-['transfer', 'channel-29'],  #fetchai </br>
-['transfer', 'channel-10'],  #osmosis </br>
-['transfer', 'channel-31'],  #umee </br>
-['transfer', 'channel-19'],  #colosseum </br>
+  - Chihuahua
+  - Juno
+  - Fetch AI
+  - Osmosis
+  - Umee
+  - Colosseum
+
+Relayer wallet address: https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4
 
 - We provide [fresh snapshots for Gravity Bridge](https://snapshots.validators.network/)
 
