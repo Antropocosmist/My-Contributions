@@ -11,7 +11,7 @@
   - Umee
   - Colosseum
 
-Relayer wallet address: https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4
+  Relayer wallet address: https://www.mintscan.io/gravity-bridge/account/gravity1jdfl8aa2cpzq9ufe3y6awyp6m9d65yy57tv2z4
 
 - We provide [fresh snapshots for Gravity Bridge](https://snapshots.validators.network/)
 
