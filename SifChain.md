@@ -2,9 +2,10 @@
 
 - [My competencies](https://github.com/Antropocosmist/my_competencies)
 
-## Videos (SifChain logo in video, and links on SifChain in the description of video)
+## Videos (I mentioned SifChain in my videos)
 
-- I mentioned SifChain in my video [What is the difference between CEX and DEX?](https://youtu.be/wKQ7NyRD4ZQ)
+- [What is the difference between CEX and DEX?](https://youtu.be/wKQ7NyRD4ZQ)
+- [The best projects on cosmos. Part 2](https://youtu.be/kOCAyx-oILw)
 
 ## SifChain Development
 
